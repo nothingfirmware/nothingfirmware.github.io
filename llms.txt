@@ -1,0 +1,30 @@
+# Nothing Firmware
+
+> Live CMF & Nothing OS Firmware Update Tracker. Instant changelogs, version details, and step-by-step guides.
+
+Nothing Firmware is an independent, real-time community database built by Rohit Kumar to monitor the software lifecycle of Nothing Technology and CMF products. 
+
+## Core Focus & Features
+- **Real-Time Release Tracking:** Instant alerts for public build rollouts, version indicators, and software info logs.
+- **OS Firmware & System Apps:** Tracks core Nothing OS updates alongside component system applications (e.g., Nothing X, Essential Space, Nothing Gallery).
+- **Comprehensive Changelogs:** Provides exact version details, release dates, visual banners, and device-specific update paths.
+
+## Official Links & Feeds
+- [Nothing Firmware](https://nothingfirmware.github.io/)
+- [Live XML Feed](https://nothingfirmware.github.io/firmware.xml)
+- [Nothing Space](https://nothingtools.github.io/)
+
+## Social Network & Contact
+- [Telegram](https://t.me/nothingfirmware)
+- [Threads](https://www.threads.net/@nothingfirmware)
+- [Instagram](https://instagram.com/nothingfirmware)
+- [Facebook](https://facebook.com/nothingosfirmware)
+- [Bluesky](https://bsky.app/profile/nothingfirmware.bsky.social)
+- [Mastodon](https://mastodon.social/@nothingfirmware)
+- [YouTube](https://youtube.com/@nothingfirmware)
+- [Dev.to](https://dev.to/nothingfirmware)
+- [LinkedIn](https://www.linkedin.com/in/nothingfirmware)
+- [Linktree](https://linktr.ee/nothingfirmware)
+
+## Disclaimer
+Nothing Firmware is strictly an unofficial, non-commercial community tracking network. It maintains no structural affiliation or official sponsorship from Nothing Technology Limited or CMF by Nothing.

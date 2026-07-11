@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  
+  <url>
+    <loc>https://nothingfirmware.github.io/</loc>
+    <lastmod>2026-07-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+
+    <image:image>
+      <image:loc>https://raw.githubusercontent.com/nothingfirmware/nothingfirmware.github.io/main/banner.png</image:loc>
+      <image:title>Nothing OS &amp; CMF Firmware Update Tracker Banner</image:title>
+      <image:caption>live update tracker feed for Nothing OS and CMF ecosystem devices.</image:caption>
+    </image:image>
+  </url>
+  
+</urlset>
