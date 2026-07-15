@@ -4,10 +4,18 @@
         <title>Nothing OS &amp; App Updates</title>
         <link>https://nothingfirmware.github.io/</link>
         <description>Latest firmware and app updates tracker for Nothing Community.</description>
-        <lastBuildDate>Wed, 15 Jul 2026 02:46:30 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Jul 2026 12:57:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[Nothing Phone (3a) Lite (vNothing OS B4.1-260702-1815)]]></title>
+            <link>https://raw.githubusercontent.com/nothingtools/nothingtools.github.io/main/Firmware/2026/update_light_Nothing_Phone__3a__Lite_Nothing_OS_B4.1-260702-1815.png</link>
+            <guid isPermaLink="false">Nothing-Phone-(3a)-Lite-Nothing OS B4.1-260702-1815</guid>
+            <pubDate>Wed, 15 Jul 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://raw.githubusercontent.com/nothingtools/nothingtools.github.io/main/Firmware/2026/update_light_Nothing_Phone__3a__Lite_Nothing_OS_B4.1-260702-1815.png" /><br/><p>New update available with version Nothing OS B4.1-260702-1815 released on 2026-07-15.</p>]]></description>
+            <content:encoded><![CDATA[<img src="https://raw.githubusercontent.com/nothingtools/nothingtools.github.io/main/Firmware/2026/update_light_Nothing_Phone__3a__Lite_Nothing_OS_B4.1-260702-1815.png" /><br/><p>New update available with version Nothing OS B4.1-260702-1815 released on 2026-07-15.</p>]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[Essential Space (v2.1.1)]]></title>
             <link>https://raw.githubusercontent.com/nothingtools/nothingtools.github.io/main/Firmware/2026/update_light_Essential_Space_2.1.1.png</link>
@@ -159,14 +167,6 @@
             <pubDate>Thu, 11 Jun 2026 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="https://raw.githubusercontent.com/nothingtools/nothingtools.github.io/main/Firmware/2026/update_light_1781176489802.png" /><br/><p>New update available with version 1.0.1.69 released on 2026-06-11.</p>]]></description>
             <content:encoded><![CDATA[<img src="https://raw.githubusercontent.com/nothingtools/nothingtools.github.io/main/Firmware/2026/update_light_1781176489802.png" /><br/><p>New update available with version 1.0.1.69 released on 2026-06-11.</p>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Essential Space (v2.0.6)]]></title>
-            <link>https://raw.githubusercontent.com/nothingtools/nothingtools.github.io/main/Firmware/2026/update_light_1781161433138.png</link>
-            <guid isPermaLink="false">Essential-Space-2.0.6</guid>
-            <pubDate>Thu, 11 Jun 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="https://raw.githubusercontent.com/nothingtools/nothingtools.github.io/main/Firmware/2026/update_light_1781161433138.png" /><br/><p>New update available with version 2.0.6 released on 2026-06-11.</p>]]></description>
-            <content:encoded><![CDATA[<img src="https://raw.githubusercontent.com/nothingtools/nothingtools.github.io/main/Firmware/2026/update_light_1781161433138.png" /><br/><p>New update available with version 2.0.6 released on 2026-06-11.</p>]]></content:encoded>
         </item>
     </channel>
 </rss>
