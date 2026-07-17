@@ -4,10 +4,18 @@
         <title>Nothing OS &amp; App Updates</title>
         <link>https://nothingfirmware.github.io/</link>
         <description>Latest firmware and app updates tracker for Nothing Community.</description>
-        <lastBuildDate>Thu, 16 Jul 2026 13:40:38 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Jul 2026 13:40:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[Nothing Launcher (v4.0.20)]]></title>
+            <link>https://raw.githubusercontent.com/nothingtools/nothingtools.github.io/main/Firmware/2026/update_light_Nothing_Launcher_4.0.20.png</link>
+            <guid isPermaLink="false">Nothing-Launcher-4.0.20</guid>
+            <pubDate>Fri, 17 Jul 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://raw.githubusercontent.com/nothingtools/nothingtools.github.io/main/Firmware/2026/update_light_Nothing_Launcher_4.0.20.png" /><br/><p>New update available with version 4.0.20 released on 2026-07-17.</p>]]></description>
+            <content:encoded><![CDATA[<img src="https://raw.githubusercontent.com/nothingtools/nothingtools.github.io/main/Firmware/2026/update_light_Nothing_Launcher_4.0.20.png" /><br/><p>New update available with version 4.0.20 released on 2026-07-17.</p>]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[Nothing X (v3.6.1)]]></title>
             <link>https://raw.githubusercontent.com/nothingtools/nothingtools.github.io/main/Firmware/2026/update_light_Nothing_X_3.6.1.png</link>
