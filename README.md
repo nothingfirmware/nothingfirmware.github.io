@@ -8,6 +8,7 @@
  <a href="https://nothingfirmware.github.io/">
   <img src="https://img.shields.io/badge/Nothing_Firmware-000000?style=for-the-badge&logo=firefox-browser&logoColor=white" alt="Nothing Firmware">
 </a>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1800&color=FFFFFF&center=true&vCenter=true&width=700&lines=Independent+Community+Driven+Project;OTA+Tracking+%E2%80%A2+Firmware+Logs;Wallpapers+%E2%80%A2+Service+Centre+%E2%80%A2+Playground;Minimal+%7C+Fast+%7C+Open+Source">
 </div>
 
 ---
