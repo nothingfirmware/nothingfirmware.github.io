@@ -4,10 +4,18 @@
         <title>Nothing OS &amp; App Updates</title>
         <link>https://nothingfirmware.github.io/</link>
         <description>Latest firmware and app updates tracker for Nothing Community.</description>
-        <lastBuildDate>Fri, 17 Jul 2026 17:37:33 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Jul 2026 13:01:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[Nothing Gallery (v3.0.8.0717)]]></title>
+            <link>https://raw.githubusercontent.com/nothingtools/nothingtools.github.io/main/Firmware/2026/update_light_Nothing_Gallery_3.0.8.0717.png</link>
+            <guid isPermaLink="false">Nothing-Gallery-3.0.8.0717</guid>
+            <pubDate>Mon, 20 Jul 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img src="https://raw.githubusercontent.com/nothingtools/nothingtools.github.io/main/Firmware/2026/update_light_Nothing_Gallery_3.0.8.0717.png" /><br/><p>New update available with version 3.0.8.0717 released on 2026-07-20.</p>]]></description>
+            <content:encoded><![CDATA[<img src="https://raw.githubusercontent.com/nothingtools/nothingtools.github.io/main/Firmware/2026/update_light_Nothing_Gallery_3.0.8.0717.png" /><br/><p>New update available with version 3.0.8.0717 released on 2026-07-20.</p>]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[Nothing X (v3.6.1)]]></title>
             <link>https://raw.githubusercontent.com/nothingtools/nothingtools.github.io/main/Firmware/2026/update_light_Nothing_X_3.6.1.png</link>
@@ -159,14 +167,6 @@
             <pubDate>Thu, 25 Jun 2026 00:00:00 GMT</pubDate>
             <description><![CDATA[<img src="https://raw.githubusercontent.com/nothingtools/nothingtools.github.io/main/Firmware/2026/update_light_1782370031163.png" /><br/><p>New update available with version 2.9.9.0624 released on 2026-06-25.</p>]]></description>
             <content:encoded><![CDATA[<img src="https://raw.githubusercontent.com/nothingtools/nothingtools.github.io/main/Firmware/2026/update_light_1782370031163.png" /><br/><p>New update available with version 2.9.9.0624 released on 2026-06-25.</p>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Nothing X (v3.5.13)]]></title>
-            <link>https://raw.githubusercontent.com/nothingtools/nothingtools.github.io/main/Firmware/2026/update_light_1781781334399.png</link>
-            <guid isPermaLink="false">Nothing-X-3.5.13</guid>
-            <pubDate>Thu, 18 Jun 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[<img src="https://raw.githubusercontent.com/nothingtools/nothingtools.github.io/main/Firmware/2026/update_light_1781781334399.png" /><br/><p>New update available with version 3.5.13 released on 2026-06-18.</p>]]></description>
-            <content:encoded><![CDATA[<img src="https://raw.githubusercontent.com/nothingtools/nothingtools.github.io/main/Firmware/2026/update_light_1781781334399.png" /><br/><p>New update available with version 3.5.13 released on 2026-06-18.</p>]]></content:encoded>
         </item>
     </channel>
 </rss>
