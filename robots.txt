@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://nothingfirmware.github.io/sitemap.xml

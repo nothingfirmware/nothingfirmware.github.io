@@ -1,0 +1,392 @@
+{
+  "generated": "2026-10-16T09:34:09.068Z",
+  "devices": [
+    {
+      "name": "Nothing Phone (2)",
+      "codename": "Pong",
+      "versions": [
+        {
+          "version": "Nothing OS B4.1-260818-1726",
+          "date": "2026-08-18",
+          "light": "images/Nothing_Phone_2/Nothing_OS_B4.1-260818-1726_light.png"
+        },
+        {
+          "version": "Nothing OS B4.1-260414-1749",
+          "date": "2026-04-14",
+          "light": "images/Nothing_Phone_2/Nothing_OS_B4.1-260414-1749_light.png"
+        },
+        {
+          "version": "Nothing OS B4.0-251226-1110",
+          "date": "2025-12-26",
+          "light": "images/Nothing_Phone_2/Nothing_OS_B4.0-251226-1110_light.png"
+        },
+        {
+          "version": "Nothing OS V3.2-250917-1451",
+          "date": "2025-09-17",
+          "light": "images/Nothing_Phone_2/Nothing_OS_V3.2-250917-1451_light.png"
+        },
+        {
+          "version": "Nothing OS V3.2-250828-1921",
+          "date": "2025-08-28",
+          "light": "images/Nothing_Phone_2/Nothing_OS_V3.2-250828-1921_light.png"
+        }
+      ]
+    },
+    {
+      "name": "Nothing Phone (3)",
+      "codename": "Metroid",
+      "versions": [
+        {
+          "version": "Nothing OS C5.0-260924-2115",
+          "date": "2026-10-12",
+          "light": "images/Nothing_Phone_3/Nothing_OS_C5.0-260924-2115_light.png"
+        },
+        {
+          "version": "Nothing OS B4.1-260814-1733",
+          "date": "2026-08-14",
+          "light": "images/Nothing_Phone_3/Nothing_OS_B4.1-260814-1733_light.png"
+        },
+        {
+          "version": "Nothing OS B4.1-260624-1457",
+          "date": "2026-06-24",
+          "light": "images/Nothing_Phone_3/Nothing_OS_B4.1-260624-1457_light.png"
+        },
+        {
+          "version": "Nothing OS B4.1-260414-1846",
+          "date": "2026-04-14",
+          "light": "images/Nothing_Phone_3/Nothing_OS_B4.1-260414-1846_light.png"
+        },
+        {
+          "version": "Nothing OS B4.0-260206-1135",
+          "date": "2026-02-06",
+          "light": "images/Nothing_Phone_3/Nothing_OS_B4.0-260206-1135_light.png"
+        },
+        {
+          "version": "Nothing OS B4.0-251224-1229",
+          "date": "2025-12-24",
+          "light": "images/Nothing_Phone_3/Nothing_OS_B4.0-251224-1229_light.png"
+        },
+        {
+          "version": "Nothing OS B4.0-251117-1909",
+          "date": "2025-11-17",
+          "light": "images/Nothing_Phone_3/Nothing_OS_B4.0-251117-1909_light.png"
+        },
+        {
+          "version": "Nothing OS V3.5-250923-1421",
+          "date": "2025-09-23",
+          "light": "images/Nothing_Phone_3/Nothing_OS_V3.5-250923-1421_light.png"
+        }
+      ]
+    },
+    {
+      "name": "Nothing Phone (3a) Series",
+      "codename": "Asteroids",
+      "versions": [
+        {
+          "version": "Nothing OS B4.1-260929-1204",
+          "date": "2026-10-10",
+          "light": "images/Nothing_Phone_3a_Series/Nothing_OS_B4.1-260929-1204_light.png"
+        },
+        {
+          "version": "Nothing OS B4.1-260810-1153",
+          "date": "2026-08-10",
+          "light": "images/Nothing_Phone_3a_Series/Nothing_OS_B4.1-260810-1153_light.png"
+        },
+        {
+          "version": "Nothing OS B4.1-260618-1048",
+          "date": "2026-06-18",
+          "light": "images/Nothing_Phone_3a_Series/Nothing_OS_B4.1-260618-1048_light.png"
+        },
+        {
+          "version": "Nothing OS B4.1-260414-1749",
+          "date": "2026-04-14",
+          "light": "images/Nothing_Phone_3a_Series/Nothing_OS_B4.1-260414-1749_light.png"
+        },
+        {
+          "version": "Nothing OS B4.0-260225-1824",
+          "date": "2026-02-25",
+          "light": "images/Nothing_Phone_3a_Series/Nothing_OS_B4.0-260225-1824_light.png"
+        },
+        {
+          "version": "Nothing OS B4.0-251229-2335",
+          "date": "2025-12-29",
+          "light": "images/Nothing_Phone_3a_Series/Nothing_OS_B4.0-251229-2335_light.png"
+        },
+        {
+          "version": "Nothing OS B4.0-251118-1551",
+          "date": "2025-11-18",
+          "light": "images/Nothing_Phone_3a_Series/Nothing_OS_B4.0-251118-1551_light.png"
+        },
+        {
+          "version": "Nothing OS V3.2-251013-1406",
+          "date": "2025-10-13",
+          "light": "images/Nothing_Phone_3a_Series/Nothing_OS_V3.2-251013-1406_light.png"
+        }
+      ]
+    },
+    {
+      "name": "Nothing Phone (2a) Plus",
+      "codename": "PacmanPro",
+      "versions": [
+        {
+          "version": "Nothing OS B4.1-260928-1201",
+          "date": "2026-10-10",
+          "light": "images/Nothing_Phone_2a_Plus/Nothing_OS_B4.1-260928-1201_light.png"
+        },
+        {
+          "version": "Nothing OS B4.1-260813-0941",
+          "date": "2026-08-13",
+          "light": "images/Nothing_Phone_2a_Plus/Nothing_OS_B4.1-260813-0941_light.png"
+        },
+        {
+          "version": "Nothing OS B4.1-260609-1926",
+          "date": "2026-06-09",
+          "light": "images/Nothing_Phone_2a_Plus/Nothing_OS_B4.1-260609-1926_light.png"
+        },
+        {
+          "version": "Nothing OS B4.1-260414-2142",
+          "date": "2026-04-14",
+          "light": "images/Nothing_Phone_2a_Plus/Nothing_OS_B4.1-260414-2142_light.png"
+        },
+        {
+          "version": "Nothing OS B4.0-260225-2039",
+          "date": "2026-02-25",
+          "light": "images/Nothing_Phone_2a_Plus/Nothing_OS_B4.0-260225-2039_light.png"
+        },
+        {
+          "version": "Nothing OS B4.0-251230-2052",
+          "date": "2025-12-30",
+          "light": "images/Nothing_Phone_2a_Plus/Nothing_OS_B4.0-251230-2052_light.png"
+        },
+        {
+          "version": "Nothing OS V3.2-250904-1704",
+          "date": "2025-09-04",
+          "light": "images/Nothing_Phone_2a_Plus/Nothing_OS_V3.2-250904-1704_light.png"
+        },
+        {
+          "version": "Nothing OS V3.2-250731-1640",
+          "date": "2025-07-31",
+          "light": "images/Nothing_Phone_2a_Plus/Nothing_OS_V3.2-250731-1640_light.png"
+        }
+      ]
+    },
+    {
+      "name": "Nothing Phone (2a)",
+      "codename": "Pacman",
+      "versions": [
+        {
+          "version": "Nothing OS B4.1-260928-1157",
+          "date": "2026-10-10",
+          "light": "images/Nothing_Phone_2a/Nothing_OS_B4.1-260928-1157_light.png"
+        },
+        {
+          "version": "Nothing OS B4.1-260813-0941",
+          "date": "2026-08-13",
+          "light": "images/Nothing_Phone_2a/Nothing_OS_B4.1-260813-0941_light.png"
+        },
+        {
+          "version": "Nothing OS B4.1-260609-1925",
+          "date": "2026-06-09",
+          "light": "images/Nothing_Phone_2a/Nothing_OS_B4.1-260609-1925_light.png"
+        },
+        {
+          "version": "Nothing OS B4.1-260414-2141",
+          "date": "2026-04-14",
+          "light": "images/Nothing_Phone_2a/Nothing_OS_B4.1-260414-2141_light.png"
+        },
+        {
+          "version": "Nothing OS B4.0-260225-1817",
+          "date": "2026-02-25",
+          "light": "images/Nothing_Phone_2a/Nothing_OS_B4.0-260225-1817_light.png"
+        },
+        {
+          "version": "Nothing OS B4.0-251230-2052",
+          "date": "2025-12-30",
+          "light": "images/Nothing_Phone_2a/Nothing_OS_B4.0-251230-2052_light.png"
+        },
+        {
+          "version": "Nothing OS V3.2-250904-1648",
+          "date": "2025-09-04",
+          "light": "images/Nothing_Phone_2a/Nothing_OS_V3.2-250904-1648_light.png"
+        },
+        {
+          "version": "Nothing OS V3.2-250815-1642",
+          "date": "2025-08-15",
+          "light": "images/Nothing_Phone_2a/Nothing_OS_V3.2-250815-1642_light.png"
+        }
+      ]
+    },
+    {
+      "name": "Nothing Phone (4b)",
+      "codename": "SuperContra",
+      "versions": [
+        {
+          "version": "Nothing OS B4.1-260904-1739",
+          "date": "2026-09-04",
+          "light": "images/Nothing_Phone_4b/Nothing_OS_B4.1-260904-1739_light.png"
+        }
+      ]
+    },
+    {
+      "name": "CMF Phone 2 Pro",
+      "codename": "Galaga",
+      "versions": [
+        {
+          "version": "Nothing OS B4.1-260928-1137",
+          "date": "2026-10-10",
+          "light": "images/CMF_Phone_2_Pro/Nothing_OS_B4.1-260928-1137_light.png"
+        },
+        {
+          "version": "Nothing OS B4.1-260812-1729",
+          "date": "2026-08-12",
+          "light": "images/CMF_Phone_2_Pro/Nothing_OS_B4.1-260812-1729_light.png"
+        },
+        {
+          "version": "Nothing OS B4.1-260415-1710",
+          "date": "2026-04-15",
+          "light": "images/CMF_Phone_2_Pro/Nothing_OS_B4.1-260415-1710_light.png"
+        },
+        {
+          "version": "Nothing OS V3.2-251103-2121",
+          "date": "2025-11-03",
+          "light": "images/CMF_Phone_2_Pro/Nothing_OS_V3.2-251103-2121_light.png"
+        }
+      ]
+    },
+    {
+      "name": "Nothing Phone (3a) Lite",
+      "codename": "Galaxian",
+      "versions": [
+        {
+          "version": "Nothing OS B4.1-260819-1839",
+          "date": "2026-08-19",
+          "light": "images/Nothing_Phone_3a_Lite/Nothing_OS_B4.1-260819-1839_light.png"
+        },
+        {
+          "version": "Nothing OS B4.1-260702-1815",
+          "date": "2026-07-02",
+          "light": "images/Nothing_Phone_3a_Lite/Nothing_OS_B4.1-260702-1815_light.png"
+        },
+        {
+          "version": "Nothing OS B4.0-260303-1710",
+          "date": "2026-03-03",
+          "light": "images/Nothing_Phone_3a_Lite/Nothing_OS_B4.0-260303-1710_light.png"
+        },
+        {
+          "version": "Nothing OS V3.5-251222-1801",
+          "date": "2025-12-22",
+          "light": "images/Nothing_Phone_3a_Lite/Nothing_OS_V3.5-251222-1801_light.png"
+        }
+      ]
+    },
+    {
+      "name": "CMF Phone 1",
+      "codename": "Tetris",
+      "versions": [
+        {
+          "version": "Nothing OS B4.1-260928-1140",
+          "date": "2026-10-10",
+          "light": "images/CMF_Phone_1/Nothing_OS_B4.1-260928-1140_light.png"
+        },
+        {
+          "version": "Nothing OS B4.1-260812-1726",
+          "date": "2026-08-12",
+          "light": "images/CMF_Phone_1/Nothing_OS_B4.1-260812-1726_light.png"
+        },
+        {
+          "version": "Nothing OS B4.1-260415-1709",
+          "date": "2026-04-15",
+          "light": "images/CMF_Phone_1/Nothing_OS_B4.1-260415-1709_light.png"
+        },
+        {
+          "version": "Nothing OS V3.2-250925-1843",
+          "date": "2025-09-25",
+          "light": "images/CMF_Phone_1/Nothing_OS_V3.2-250925-1843_light.png"
+        },
+        {
+          "version": "Nothing OS V3.2-250723-1800",
+          "date": "2025-07-23",
+          "light": "images/CMF_Phone_1/Nothing_OS_V3.2-250723-1800_light.png"
+        },
+        {
+          "version": "Nothing OS V3.2-250609-2111",
+          "date": "2025-06-09",
+          "light": "images/CMF_Phone_1/Nothing_OS_V3.2-250609-2111_light.png"
+        }
+      ]
+    },
+    {
+      "name": "Nothing Phone (4a)",
+      "codename": "Frogger",
+      "versions": [
+        {
+          "version": "Nothing OS B4.1-260911-0959",
+          "date": "2026-10-08",
+          "light": "images/Nothing_Phone_4a/Nothing_OS_B4.1-260911-0959_light.png"
+        },
+        {
+          "version": "Nothing OS B4.1-260808-1352",
+          "date": "2026-08-08",
+          "light": "images/Nothing_Phone_4a/Nothing_OS_B4.1-260808-1352_light.png"
+        },
+        {
+          "version": "Nothing OS B4.1-260630-1839",
+          "date": "2026-06-30",
+          "light": "images/Nothing_Phone_4a/Nothing_OS_B4.1-260630-1839_light.png"
+        },
+        {
+          "version": "Nothing OS B4.1-260402-1229",
+          "date": "2026-04-02",
+          "light": "images/Nothing_Phone_4a/Nothing_OS_B4.1-260402-1229_light.png"
+        }
+      ]
+    },
+    {
+      "name": "Nothing Phone (4a) Pro",
+      "codename": "FroggerPro",
+      "versions": [
+        {
+          "version": "Nothing OS B4.1-260907-1153",
+          "date": "2026-09-07",
+          "light": "images/Nothing_Phone_4a_Pro/Nothing_OS_B4.1-260907-1153_light.png"
+        },
+        {
+          "version": "Nothing OS B4.1-260723-1820",
+          "date": "2026-07-23",
+          "light": "images/Nothing_Phone_4a_Pro/Nothing_OS_B4.1-260723-1820_light.png"
+        }
+      ]
+    },
+    {
+      "name": "Nothing Phone (1)",
+      "codename": "Spacewar",
+      "versions": [
+        {
+          "version": "Nothing OS V3.2-260618-1045",
+          "date": "2026-06-18",
+          "light": "images/Nothing_Phone_1/Nothing_OS_V3.2-260618-1045_light.png"
+        },
+        {
+          "version": "Nothing OS V3.2-260416-1140",
+          "date": "2026-04-16",
+          "light": "images/Nothing_Phone_1/Nothing_OS_V3.2-260416-1140_light.png"
+        },
+        {
+          "version": "Nothing OS V3.2-260206-1016",
+          "date": "2026-02-06",
+          "light": "images/Nothing_Phone_1/Nothing_OS_V3.2-260206-1016_light.png"
+        },
+        {
+          "version": "Nothing OS V3.2-250926-1631",
+          "date": "2025-09-26",
+          "light": "images/Nothing_Phone_1/Nothing_OS_V3.2-250926-1631_light.png"
+        },
+        {
+          "version": "Nothing OS V3.2-250701-1737",
+          "date": "2025-07-01",
+          "light": "images/Nothing_Phone_1/Nothing_OS_V3.2-250701-1737_light.png"
+        }
+      ]
+    }
+  ]
+}
