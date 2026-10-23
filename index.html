@@ -22,7 +22,16 @@ a{text-decoration:none;color:inherit;transition:.2s}
 header{position:sticky;top:0;background:rgba(255,255,255,.85);backdrop-filter:blur(12px);border-bottom:1px solid var(--border);z-index:100}
 .nav-inner{max-width:1200px;margin:0 auto;padding:16px 20px;display:flex;justify-content:space-between;align-items:center;gap:16px}
 .logo{font-size:1.6rem;font-weight:800;letter-spacing:-1px;text-transform:uppercase;color:#000;white-space:nowrap}.logo span{color:var(--accent-red)}
-.nav-links{display:flex;gap:22px;font-weight:600;font-size:.95rem;color:var(--text-sec);overflow-x:auto}.nav-links a:hover{color:var(--accent-red)}
+.nav-links{display:flex;gap:22px;font-weight:600;font-size:.95rem;color:var(--text-sec)}.nav-links a:hover{color:var(--accent-red)}
+.menu-btn{display:none;background:none;border:1px solid var(--border);border-radius:8px;width:42px;height:42px;font-size:1.2rem;color:#000;cursor:pointer;align-items:center;justify-content:center}
+@media(max-width:650px){
+.logo{font-size:1.35rem;letter-spacing:-.5px}
+.menu-btn{display:flex}
+.nav-inner{position:relative}
+.nav-links{display:none;position:absolute;top:100%;left:0;right:0;background:#fff;flex-direction:column;gap:0;border-bottom:1px solid var(--border);box-shadow:0 10px 25px rgba(0,0,0,.08)}
+.nav-links.open{display:flex}
+.nav-links a{padding:14px 20px;border-top:1px solid var(--border);font-size:1rem}
+}
 .hero{max-width:1000px;margin:60px auto 30px;padding:0 20px;text-align:center}
 .hero-badge{display:inline-block;padding:8px 18px;border-radius:50px;background:rgba(230,0,0,.08);border:1px solid rgba(230,0,0,.2);color:var(--accent-red);font-size:.85rem;font-weight:800;letter-spacing:1.5px;margin-bottom:25px;text-transform:uppercase}
 .hero h1{font-size:4rem;font-weight:800;line-height:1.1;margin-bottom:20px;letter-spacing:-1.5px;color:#000}
@@ -99,8 +108,9 @@ footer{background:var(--bg-card);border-top:1px solid var(--border);padding:60px
 .feed-card{flex-direction:column}.feed-img{width:100%;height:200px}.dev{padding:18px}.dev-top{flex-direction:column}.dev-pic{width:100%;height:190px}
 .section-head{font-size:1.3rem}.box{padding:22px 18px}.vbody{padding:4px 14px 18px}.shot{float:none;width:100%;max-width:100%;margin:0 0 16px}}
 </style></head><body>
-<header><div class="nav-inner"><a href="/" class="logo">Nothing<span>Firmware</span></a>
-<nav class="nav-links"><a href="/#devices-section">Devices</a><a href="/#feed-section">Feed</a><a href="/about.html">About</a></nav></div></header>
+<header><div class="nav-inner"><a href="/" class="logo">Nothing&nbsp;<span>Firmware</span></a>
+<button class="menu-btn" id="menuBtn" aria-label="Menu" aria-expanded="false"><i class="fa-solid fa-bars"></i></button>
+<nav class="nav-links" id="navLinks"><a href="/#devices-section">Devices</a><a href="/#feed-section">Feed</a><a href="/about.html">About</a></nav></div></header>
 <section class="hero"><div class="hero-badge">Instant latest firmware feeds</div>
 <h1>Track Every Update Live.</h1>
 <p>We provide instant update changelogs for Nothing and CMF phones. Whether it's software, system apps, or OS firmware version logs, get the latest release data with images and full changelogs directly in our feed.</p>
@@ -141,7 +151,10 @@ footer{background:var(--bg-card);border-top:1px solid var(--border);padding:60px
 <a href="https://linktr.ee/nothingfirmware" target="_blank" rel="noopener" title="Linktree"><i class="fa-solid fa-tree"></i></a>
 <a href="https://mastodon.social/@nothingfirmware" target="_blank" rel="noopener" title="Mastodon"><i class="fa-brands fa-mastodon"></i></a></div></div></div>
 <div class="footer-bottom">&copy; <span id="y"></span> Nothing Firmware. Designed in India. Not officially affiliated with Nothing Technology Ltd.</div></footer>
-<script>document.getElementById('y').textContent=new Date().getFullYear();</script>
+<script>document.getElementById('y').textContent=new Date().getFullYear();
+(function(){var b=document.getElementById('menuBtn'),n=document.getElementById('navLinks');
+b.addEventListener('click',function(){var o=n.classList.toggle('open');b.setAttribute('aria-expanded',o);b.innerHTML=o?'<i class="fa-solid fa-xmark"></i>':'<i class="fa-solid fa-bars"></i>'});
+n.addEventListener('click',function(e){if(e.target.tagName==='A'){n.classList.remove('open');b.innerHTML='<i class="fa-solid fa-bars"></i>'}})})();</script>
 <div class="modal-bg" id="pm-bg"><button class="close-modal" id="pclose" title="Close">&times;</button>
 <div class="modal-box"><h1 id="pt"></h1><div id="pv"></div><div id="pm"></div><img id="pi" src="" alt="Update image"><div id="pd"></div></div></div>
 <script>
